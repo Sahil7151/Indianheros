@@ -22,6 +22,7 @@ html {
   border: 3px solid rgb(205, 205, 224);
   border-radius: 50px;
   margin: 5%;
+  object-fit: cover;
 }
 
 .navbar {
@@ -111,6 +112,7 @@ html {
   border-radius: 500px;
   display: block;
   margin: auto;
+  object-fit: cover;
 }
 
 .text-big {
@@ -173,6 +175,7 @@ html {
   border: 2px solid black;
   border-radius: 26px;
   margin-top: 19px;
+  object-fit: cover;
 }
 
 .sectionTag {
