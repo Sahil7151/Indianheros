@@ -53,4 +53,7 @@
   .secondHalf img {
     height: 70px;
   }
+  .imgFluid {
+    width: 100%;
+  }
 }
